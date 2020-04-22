@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -47,5 +47,4 @@
 </body>
 </html>
 
-</body>
-</html>
+
