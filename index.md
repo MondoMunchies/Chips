@@ -46,9 +46,9 @@
     </div>
  
     <div class="description">
-      <span>Poptart</span>
-      <span>Fruitloops Limited Edition</span>
-      <span>2 packs</span>
+      <span></span>
+      <span></span>
+      <span>none</span>
     </div>
  
     <div class="quantity">
